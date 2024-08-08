@@ -27,6 +27,7 @@ but it works for other subjects too.
 
 ## Recent releases
 
+* June 2024 [A+ v1.24](releases/v1_24.md)
 * April 2024 [A+ v1.23](releases/v1_23.md)
 * Feb 2024 [A+ v1.22](releases/v1_22.md)
 * Jan 2024 [A+ v1.21](releases/v1_21.md)
@@ -61,4 +62,3 @@ but it works for other subjects too.
 * [2018-11-07 2nd A+ World Con](events/2018-2nd-a-plus-world-con/)
 
 [All events and presentations](events/)
-

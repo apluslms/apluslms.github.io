@@ -26,6 +26,9 @@ So, yearly cycle:
 
 ## Releases
 
+* June 2024: A+ v1.24
+  * A+ v1.24
+  * [Release notes](v1_24.md)
 * April 2024: A+ v1.23
   * A+ v1.23
   * [Release notes](v1_23.md)
@@ -134,4 +137,3 @@ So, yearly cycle:
 * August 2018: A+ v1.3
   * A+ v1.3
   * MOOC-Grader v1.3
-
