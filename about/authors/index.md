@@ -9,23 +9,25 @@ The A+ LMS project was launched by the [Learning + Technology](https://research.
 The original source project A+ (now referred to as A+ portal) is introduced in a paper *[Service-Oriented Approach to Improve Interoperability of E-Learning Systems](http://dx.doi.org/10.1109/ICALT.2013.105)* (2013) by Karavirta, V. & Ihantola, P. & Koskinen, T.
 Since then, the project has adopted and created new services to support a wider range of requirements (a comprehensive list on [components page](/components/)).
 
-Today, the A+ LMS project is led by the Educational Technology Development and Integration Team (EDIT) in the Department of Computer Science at Aalto University,
-but there are many more contributors,
-mainly from [Tampere University](https://www.tuni.fi), in addition to Aalto.
+Today, the A+ LMS project is led by CS-IT, the IT team in the Department of Computer Science at Aalto University,
+but there are many more contributors, mainly from [Tampere University](https://www.tuni.fi), in addition to Aalto.
 
 ## Main architects and designers
 
 Currently the project is spearheaded by:
-
-* [Markku Riekkinen](https://github.com/Mankro), Systems Specialist & Lead Developer. [LinkedIn](https://www.linkedin.com/in/markku-riekkinen-450267143/)
-* [Pasi Sarolahti](https://github.com/PasiSa), Staff Scientist & Architect (from February 2021 onwards)
+* [Jimmy Ihalainen](https://github.com/ihalaij1), IT Specialist & Lead Developer
+* [Markus Murhu](https://github.com/murhum1), IT Specialist & Lead Developer
 
 Other core team members:
-
-* [Anni Rytkönen](https://github.com/annirytkonen), Staff Scientist & Team Leader (from October 2019 onwards)
+* [Jaakko Kotimäki](https://github.com/jkotimak), Laboratory Manager & Team Leader
+* [Anni Rytkönen](https://github.com/annirytkonen), Staff Scientist
+* [Otto Seppälä](https://github.com/oseppala), University Lecturer & Product Owner
+* [Seppo Äyräväinen](https://github.com/sayravai), Laboratory Manager
 
 Past project heads:
 
+* [Markku Riekkinen](https://github.com/Mankro), Systems Specialist & Lead Developer. [LinkedIn](https://www.linkedin.com/in/markku-riekkinen-450267143/)
+* [Pasi Sarolahti](https://github.com/PasiSa), Staff Scientist & Architect (from February 2021 onwards)
 * [Jaakko Kantojärvi](https://github.com/raphendyr)
 * [Teemu Lehtinen](https://github.com/teemulehtinen)
 * [Teemu Havulinna (Teemu Koskinen)](https://github.com/havulinna)
