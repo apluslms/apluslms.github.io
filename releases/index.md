@@ -26,6 +26,9 @@ So, yearly cycle:
 
 ## Releases
 
+* October 2024: A+ v1.26
+  * A+ v1.26
+  * [Release notes](v1_26.md)
 * August 2024: A+ v1.25
   * A+ v1.25
   * [Release notes](v1_25.md)
