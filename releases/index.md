@@ -26,6 +26,9 @@ So, yearly cycle:
 
 ## Releases
 
+* April 2025: A+ v1.29
+  * A+ v1.29
+  * [Release notes](v1_29.md)
 * February 2025: A+ v1.28
   * A+ v1.28
   * Git Manager v1.28
