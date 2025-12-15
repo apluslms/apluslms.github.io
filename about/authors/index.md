@@ -116,6 +116,7 @@ Past core team members:
 * [Ville Karavirta](https://github.com/vkaravir)
 * [Ville V](https://github.com/Vilz92)
 * Yusein Ali
+* [Ziqi Wang (王子祺)](https://github.com/James-Leste)
 
 [end-of-contributors]: # (End of automatically updated list)
 
