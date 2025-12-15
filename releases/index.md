@@ -26,6 +26,16 @@ So, yearly cycle:
 
 ## Releases
 
+
+* December 2025: A+ v1.30
+  * A+ v1.30
+  * MOOC-Grader v1.30
+  * Git Manager v1.30
+  * a-plus-rst-tools v2.0.0
+  * MOOC-Jutut v3.0.0
+  * django-colortag v3.0.0
+  * js-jquery-toggle v2.0.0
+  * [Release notes](v1_30.md)
 * April 2025: A+ v1.29
   * A+ v1.29
   * [Release notes](v1_29.md)
