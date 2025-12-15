@@ -14,5 +14,5 @@
 
 ## On course development with A+
 
-* The tester and exercises on the course Programming Y1 / Vilma Kahri, Jimmy Ihalainen & Joel Lahenius
+* The tester and exercises on the course Programming Y1 / Vilma Kahri, Jimmy Lumiaho & Joel Lahenius
 * Implementing a queueing system with websockets / Emma Honkamaa & Joonatan Partanen
