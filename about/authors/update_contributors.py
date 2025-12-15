@@ -56,6 +56,8 @@ IGNORED_AUTHORS = {
 }
 IGNORED_USER_IDS = {
     'github:dependabot[bot]',
+    'github:dependabot-preview[bot]',
+    'github:renovate[bot]',
 }
 
 IGNORED_DOMAINS = {
@@ -72,6 +74,7 @@ IGNORED_REPOS_BY_ORG = {
 REALNAMES = {
     'Qianqian Qin': '覃茜茜',
     'Ruiyang Ding': '丁瑞洋',
+    'Ziqi Wang': '王子祺',
 }
 
 emails_to_github_users = {}
@@ -137,12 +140,11 @@ class Github:
                 user.pop('_anon_', None)
         else:
             user = self.users[login]
-        # add names for those, that don't have one... TODO: probably should ask about this
-        if not 'name' in user or not user['name']:
-            if login in github_users_to_names:
-                user['name'] = github_users_to_names[login]
-                user['_anon_'] = True
-            elif 'name' in obj and obj['name']:
+        # Override name if specified in config, otherwise use GitHub name
+        if login in github_users_to_names:
+            user['name'] = github_users_to_names[login]
+        elif not 'name' in user or not user['name']:
+            if 'name' in obj and obj['name']:
                 user['name'] = obj['name']
                 user['_anon_'] = True
             else:
