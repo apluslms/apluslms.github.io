@@ -2,9 +2,9 @@
 nav-group: software
 nav-weight: 9
 ---
-# Releases
+# A+ LMS releases
 
-A release is a bit vague term for A+ LMS and it is more there to set dates and to help talking about set of features.
+A release is a bit of a vague term for A+ LMS and it is more there to set dates and to facilitate discussions about a set of features.
 This is because of the fact that A+ LMS is a family of services (check [architecture](/architecture/)), instead of a single application.
 A+ LMS services have their own releases, though those can be synchronized with dates described here.
 
@@ -26,7 +26,12 @@ So, yearly cycle:
 
 ## Releases
 
-
+* June 2026: A+ v1.31
+  * A+ v1.31
+  * MOOC-Grader v1.31
+  * Git Manager v1.31
+  * MOOC-Jutut v3.1.0
+  * [Release notes](v1_31.md)
 * December 2025: A+ v1.30
   * A+ v1.30
   * MOOC-Grader v1.30
