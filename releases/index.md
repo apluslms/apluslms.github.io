@@ -26,6 +26,13 @@ So, yearly cycle:
 
 ## Releases
 
+* October 2026: A+ v1.32
+  * A+ v1.32
+  * MOOC-Grader v1.32
+  * Git Manager v1.32 (no changes since v1.31)
+  * MOOC-Jutut v3.1.1
+  * a-plus-rst-tools v2.1.0
+  * [Release notes](v1_32.md)
 * June 2026: A+ v1.31
   * A+ v1.31
   * MOOC-Grader v1.31

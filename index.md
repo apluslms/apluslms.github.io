@@ -27,6 +27,7 @@ but it works for other subjects too.
 
 ## Recent releases
 
+* October 2026 [A+ v1.32](releases/v1_32.md)
 * June 2026 [A+ v1.31](releases/v1_31.md)
 * December 2025 [A+ v1.30](releases/v1_30.md)
 * April 2025 [A+ v1.29](releases/v1_29.md)
